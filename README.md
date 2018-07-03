@@ -9,7 +9,7 @@ The primary concern of structural design patterns is **how objects are composed 
 Three themes stand out in structural design patterns: adapting interfaces, adding functionality, and handling collections of objects.
 
 
-- [x] adpater
+- [x] **Adapter**: lets you wrap an otherwise **incompatible** object in an adapter to make it **compatible** with another class.
 
 
 
