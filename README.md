@@ -16,7 +16,7 @@ For Python programmers, some of these patterns are fairly similar to each other 
 - [ ] Singleton💍
 
 ### Structural 
-The primary concern of structural design patterns is **how objects are composed together to form new,larger objects.**
+The primary concern of structural design patterns is **how objects are composed together to form new, larger objects.**
 
 Three themes stand out in structural design patterns: adapting interfaces, adding functionality, and handling collections of objects.
 
