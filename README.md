@@ -8,9 +8,9 @@ Creational design patterns are concerned with **how objects are created.** Norma
 
 For Python programmers, some of these patterns are fairly similar to each other — and some of them, as we will note, aren’t really needed at all. This is because the original design patterns were primarily created for the **C++ language** and needed to work around some of that language’s limitations. **Python doesn’t have those limitations.**
 
-- [ ] **Simple Factory🏠**: Simple factory simply **generates an instance for client without exposing any instantiation logic** to the client
-- [ ] Factory Method🏭 
-- [ ] Abstract Factory🔨 
+- [ ] **Simple Factory🏠**: Simple factory simply **generates an instance for client without exposing any instantiation logic** to the client e.g. 
+- [ ] Factory Method🏭: It provides a way to **delegate** the instantiation logic to child classes. e.g. take interview
+- [ ] Abstract Factory🔨: A factory of factories
 - [ ] Builder👷
 - [ ] Prototype🐑 
 - [ ] Singleton💍
