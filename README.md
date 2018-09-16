@@ -11,7 +11,7 @@ For Python programmers, some of these patterns are fairly similar to each other 
 - [ ] **Simple Factory🏠**: Simple factory simply **generates an instance for client without exposing any instantiation logic** to the client e.g. 
 - [ ] Factory Method🏭: It provides a way to **delegate** the instantiation logic to child classes. e.g. take interview
 - [ ] Abstract Factory🔨: A factory of factories
-- [ ] Builder👷
+- [ ] Builder👷: Separates object **construction** from its **representation** e.g. Subway 
 - [ ] Prototype🐑 
 - [ ] Singleton💍
 
