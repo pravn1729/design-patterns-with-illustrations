@@ -31,11 +31,14 @@ I am learning about Angular2 recently. There is concept called decorators that i
 
 
 ## How?
-![Logging actions with Python decorators Part I: Decorating logged functions](https://www.freshbooks.com/assets/blog-uploads/img/DecoratorsVisuallyExplained.png)
-![How do they work](https://image.slidesharecdn.com/decorators-2-140907225936-phpapp02/95/decorators-explained-a-powerful-tool-that-should-be-in-your-python-toolbelt-15-638.jpg?cb=1410252461)
-![Python Decorator](https://i.imgur.com/OueUD9o.png)
+- [Logging actions with Python decorators Part I: Decorating logged functions](https://www.freshbooks.com/assets/blog-uploads/img/DecoratorsVisuallyExplained.png)
+- [How do they work](https://image.slidesharecdn.com/decorators-2-140907225936-phpapp02/95/decorators-explained-a-powerful-tool-that-should-be-in-your-python-toolbelt-15-638.jpg?cb=1410252461)
+- [Python Decorators](https://www.programiz.com/python-programming/decorator)
 
--- [Python Decorators](https://www.programiz.com/python-programming/decorator)
+### Real stories
+
+- [Code. Changing it without breaking it, using a Decorator.](https://dev.to/kchawla_pi/using-a-decorators-to-solve-my-task-the-thinking--the-process-49f0)
+
 
 ## Reference
 
