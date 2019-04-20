@@ -27,10 +27,10 @@ Three themes stand out in structural design patterns: adapting interfaces, addin
 
 | key 🔑 | why | what  | how  | when | 
 | :-------- | :---------: | :----------: | :---------: |  :---------: |
-|**Adapter🔌**| | lets you wrap an otherwise **incompatible** object in an adapter to make it **compatible** with another class. <br>e.g. card reader, power adapter.| ||
+|**Adapter🔌**| | **incompatible** -> **compatible**  <br>e.g. card reader, power adapter.| ||
 |Bridge🚡||||
 |Composite🌿|
-|Decorator☕||<img src="http://qxf2.com/blog/wp-content/uploads/2014/09/qxf2-gun-decorator1.jpg" alt="Decorator" width="200"/>|[python](https://repl.it/@WillWang42/decorator)| 切面需求场景，<br>比如：<br>插入日志、<br>性能测试、<br>事务处理、<br>缓存、<br>权限校验|
+|Decorator☕||<img src="http://qxf2.com/blog/wp-content/uploads/2014/09/qxf2-gun-decorator1.jpg" alt="Decorator" width="200"/>|[python](https://repl.it/@WillWang42/decorator)| **切面需求**<br>e.g.<br>插入日志<br>性能测试<br>事务处理<br>缓存<br>权限校验|
 |Facade📦|
 |Flyweight🍃|
 |Proxy🎱|
