@@ -58,3 +58,4 @@ The Perl programming language’s well-known motto is, “there’s more than on
 
 - [python in practice](https://github.com/lovexiaov/python-in-practice)
 - [design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+- [Design Patterns Game](http://designpatternsgame.com/)
