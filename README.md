@@ -42,6 +42,12 @@ The behavioral patterns are concerned with **how things get done**; that is, wit
 The Perl programming language’s well-known motto is, “there’s more than one way to do it”; whereas in Tim Peters’ Zen of Python, “there should be one—and preferably only one—obvious way to do it”. Yet, like any programming language, there are sometimes two or more ways to do things in Python, especially since the introduction of comprehensions (use a comprehension or a for loop) and generators (use a generator expression or a function with a yield statement). And as we will see in this chapter, Python’s support for coroutines adds a new way to do certain things.
 
 
+
+| key 🔑 | why | what  | how  | when | 
+| :-------- | :---------: | :----------: | :---------: |  :---------: |
+|[Visitor](https://www.wikiwand.com/en/Visitor_pattern)🚕|add more without modify| | | |
+
+
 - [ ] Chain of Responsibility🔗
 - [ ] Command👮
 - [ ] Iterator➿
@@ -60,3 +66,8 @@ The Perl programming language’s well-known motto is, “there’s more than on
 - [design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [Design Patterns Game](http://designpatternsgame.com/)
 - [dive into design patterns](https://sourcemaking.com/design_patterns)
+
+
+## More 
+
+- [Understanding The Visitor Design Pattern](https://www.youtube.com/watch?v=TeZqKnC2gvA)
