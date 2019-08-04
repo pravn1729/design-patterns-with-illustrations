@@ -16,7 +16,7 @@ For Python programmers, some of these patterns are fairly similar to each other 
 | :-------- | :---------: | :----------: | :---------: |  :---------: |
 |**Simple Factory🏠**| create without the mess |`new`| class | |
 |**Factory Method🏭**| generic & sub-class | `extends`| subclass | |
-|**Abstract Factory🔨**|  | |  | |
+|**Abstract Factory🔨**| stuff & steps | `implements`| interface? | dependencies |
 |**Builder👷**|  | |  | |
 |**Prototype🐑**|  | |  | |
 |**Singleton💍**|  | |  | |
