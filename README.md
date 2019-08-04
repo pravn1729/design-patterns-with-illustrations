@@ -17,15 +17,15 @@ For Python programmers, some of these patterns are fairly similar to each other 
 |**Simple Factory🏠**| create without the mess |`new`| class | |
 |**Factory Method🏭**| generic & sub-class | `extends`| subclass | |
 |**Abstract Factory🔨**| stuff & steps | `implements`| interface? | dependencies |
-|**Builder👷**|  | |  | |
+|**Builder👷**| to avoid the constructor telescoping |`new`&   `function` | multi steps | |
 |**Prototype🐑**|  | |  | |
 |**Singleton💍**|  | |  | |
 
 
 
-- [x] **Simple Factory🏠**: Simple factory simply **generates an instance for client without exposing any instantiation logic** to the client e.g. 
+- [x] **Simple Factory🏠**: Simple factory simply **generates an instance for client without exposing any instantiation logic** to the client e.g. door 
 - [ ] Factory Method🏭: It provides a way to **delegate** the instantiation logic to child classes. e.g. take interview
-- [ ] Abstract Factory🔨: A factory of factories
+- [ ] Abstract Factory🔨: A factory of factories e.g. door & experts
 - [ ] Builder👷: Separates object **construction** from its **representation** e.g. Subway 
 - [ ] Prototype🐑 
 - [ ] Singleton💍
