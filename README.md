@@ -14,12 +14,12 @@ For Python programmers, some of these patterns are fairly similar to each other 
 
 | key 🔑 | why | what  | how  | when | 
 | :-------- | :---------: | :----------: | :---------: |  :---------: |
-|**Simple Factory🏠**| create without the mess |`new`| class | |
-|**Factory Method🏭**| generic & sub-class | `extends`| subclass | |
-|**Abstract Factory🔨**| stuff & steps | `implements`| interface? | dependencies |
-|**Builder👷**| to avoid the constructor telescoping |`new`&   `function` | multi steps | |
-|**Prototype🐑**|  | |  | |
-|**Singleton💍**|  | |  | |
+|**Simple Factory🏠**| create without the mess | class | `new`| |
+|**Factory Method🏭**| generic & sub-class | subclass| `extends`| |
+|**Abstract Factory🔨**| stuff & steps | interface? |`implements`| dependencies |
+|**Builder👷**| to avoid the constructor telescoping | multi steps|`new`&   `function`  | |
+|**Prototype🐑**| similar & save | copy | `clone` |  |
+|**Singleton💍**|  unique| president of a country| `getInstance()` | ⚠️|
 
 
 
