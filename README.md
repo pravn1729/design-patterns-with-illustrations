@@ -38,8 +38,8 @@ Three themes stand out in structural design patterns: adapting interfaces, addin
 
 | key 🔑 | why | what  | how  | when | 
 | :-------- | :---------: | :----------: | :---------: |  :---------: |
-|**Adapter🔌**| | **incompatible** -> **compatible**  <br>e.g. card reader, power adapter.| ||
-|Bridge🚡||||
+|**Adapter🔌**| | **incompatible** -> **compatible**  <br>e.g. card reader, power adapter.| `WildDogAdapter`||
+|Bridge🚡|composition over inheritance| decouple & independently ||
 |Composite🌿|
 |Decorator☕||<img src="http://qxf2.com/blog/wp-content/uploads/2014/09/qxf2-gun-decorator1.jpg" alt="Decorator" width="200"/>|[python](https://repl.it/@WillWang42/decorator)| **切面需求**<br>e.g.<br>插入日志<br>性能测试<br>事务处理<br>缓存<br>权限校验|
 |Facade📦|
