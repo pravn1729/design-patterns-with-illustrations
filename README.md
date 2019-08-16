@@ -48,8 +48,6 @@ Three themes stand out in structural design patterns: adapting interfaces, addin
 
 
 
-
-
 ### Behavioral                 
 The behavioral patterns are concerned with **how things get done**; that is, with algorithms and object interactions. They provide powerful ways of thinking about and organizing computations, and like a few of the patterns seen in the previous two chapters, some of them are supported directly by built-in Python syntax.
 
@@ -59,7 +57,11 @@ The Perl programming language’s well-known motto is, “there’s more than on
 
 | key 🔑 | why | what  | how  | when | 
 | :-------- | :---------: | :----------: | :---------: |  :---------: |
+|Chain of Responsibility🔗|request with multi handlers|<img src="https://i.imgur.com/EyoYZbI.png" alt="Chain of Respnsibility" width="200"/> <br>|`setNext`| |
 |[Visitor](https://www.wikiwand.com/en/Visitor_pattern)🚕|add more without modify| | | |
+
+
+
 
 
 - [ ] Chain of Responsibility🔗
