@@ -59,6 +59,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 | :-------- | :---------: | :----------: | :---------: |  :---------: |
 |Chain of Responsibility🔗|request with multi handle|<img src="https://i.imgur.com/EyoYZbI.png" alt="Chain of Respnsibility" width="200"/> <br>|`setNext`| |
 |Comand|encapsulate actions in objects|<img src="https://i.imgur.com/Z2jMgb2.png" alt="Command" width="200"/> <br>|`Client` & `Invoker` & `Command` & `Receiver` ||
+|Iterator➿|what's next|<img src="https://i.imgur.com/IlKj1J3.jpg" alt="Iterator" width="200"/> <br>|`next`|
 |[Visitor](https://www.wikiwand.com/en/Visitor_pattern)🚕|add more without modify| | | |
 
 
@@ -67,7 +68,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 
 - [ ] Chain of Responsibility🔗
 - [ ] Command👮
-- [ ] Iterator➿
+- [ ] Iterator➿: An iterator returns items from a collection one at a time until it has returned all items from the collection.
 - [ ] Mediator👽
 - [ ] Memento💾 
 - [ ] Observer😎 
@@ -83,6 +84,8 @@ The Perl programming language’s well-known motto is, “there’s more than on
 - [design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [Design Patterns Game](http://designpatternsgame.com/)
 - [dive into design patterns](https://sourcemaking.com/design_patterns)
+- [Design Patterns Illustrated](https://www.slideshare.net/HermanPeeren/design-patterns-illustrated/37-Iterator_Enable_sequential_access_to)
+- [Object-Oriented Design Patterns in Life](https://www.sihui.io/design-patterns/)
 
 
 ## More 
