@@ -46,7 +46,13 @@ Three themes stand out in structural design patterns: adapting interfaces, addin
 |Flyweight🍃|sharing & frugality|<img src="https://i.imgur.com/o3ClHZv.jpg" alt="Flyweight" width="200"/>||
 |Proxy🎱|extra functionality|<img src="https://i.imgur.com/tHIXbE8.png" alt="Proxy" width="200"/> <br>|`function`+||
 
-
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
 
 ### Behavioral                 
 The behavioral patterns are concerned with **how things get done**; that is, with algorithms and object interactions. They provide powerful ways of thinking about and organizing computations, and like a few of the patterns seen in the previous two chapters, some of them are supported directly by built-in Python syntax.
@@ -60,16 +66,14 @@ The Perl programming language’s well-known motto is, “there’s more than on
 |Chain of Responsibility🔗|request with multi handle|<img src="https://i.imgur.com/EyoYZbI.png" alt="Chain of Respnsibility" width="200"/> <br>|`setNext`| |
 |Comand|encapsulate actions in objects|<img src="https://i.imgur.com/Z2jMgb2.png" alt="Command" width="200"/> <br>|`Client` & `Invoker` & `Command` & `Receiver` ||
 |Iterator➿|what's next|<img src="https://i.imgur.com/IlKj1J3.jpg" alt="Iterator" width="200"/> <br>|`next`|
+| Mediator👽|encapsulate interact|<img src="https://i.imgur.com/JuoIurx.jpg" alt="Mediator" width="200"/> <br>|meidator & user|
 |[Visitor](https://www.wikiwand.com/en/Visitor_pattern)🚕|add more without modify| | | |
-
-
-
 
 
 - [ ] Chain of Responsibility🔗
 - [ ] Command👮
 - [ ] Iterator➿: An iterator returns items from a collection one at a time until it has returned all items from the collection.
-- [ ] Mediator👽
+- [ ] Mediator👽: In software engineering, the mediator pattern defines an object that **encapsulates** how a set of objects interact. This pattern is considered to be a behavioral pattern due to the way it can alter the program's running behavior.
 - [ ] Memento💾 
 - [ ] Observer😎 
 - [ ] Visitor🏃
