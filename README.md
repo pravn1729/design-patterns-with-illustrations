@@ -67,14 +67,17 @@ The Perl programming language’s well-known motto is, “there’s more than on
 |Comand|encapsulate actions in objects|<img src="https://i.imgur.com/Z2jMgb2.png" alt="Command" width="200"/> <br>|`Client` & `Invoker` & `Command` & `Receiver` ||
 |Iterator➿|what's next|<img src="https://i.imgur.com/IlKj1J3.jpg" alt="Iterator" width="200"/> <br>|`next`|
 | Mediator👽|encapsulate interact|<img src="https://i.imgur.com/JuoIurx.jpg" alt="Mediator" width="200"/> <br>|meidator & user|
+| Memento|redo|<img src="https://i.imgur.com/dGzcnqh.png" alt="Memento" width="200"/> <br>|`save`|
 |[Visitor](https://www.wikiwand.com/en/Visitor_pattern)🚕|add more without modify| | | |
+
+
 
 
 - [ ] Chain of Responsibility🔗
 - [ ] Command👮
 - [ ] Iterator➿: An iterator returns items from a collection one at a time until it has returned all items from the collection.
 - [ ] Mediator👽: In software engineering, the mediator pattern defines an object that **encapsulates** how a set of objects interact. This pattern is considered to be a behavioral pattern due to the way it can alter the program's running behavior.
-- [ ] Memento💾 
+- [ ] Memento💾: The memento pattern is a software design pattern that provides the ability to restore an object to its previous state (undo via rollback).
 - [ ] Observer😎 
 - [ ] Visitor🏃
 - [ ] Strategy💡
@@ -90,6 +93,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 - [dive into design patterns](https://sourcemaking.com/design_patterns)
 - [Design Patterns Illustrated](https://www.slideshare.net/HermanPeeren/design-patterns-illustrated/37-Iterator_Enable_sequential_access_to)
 - [Object-Oriented Design Patterns in Life](https://www.sihui.io/design-patterns/)
+- [Refactoring](https://refactoring.guru/refactoring)
 
 
 ## More 
