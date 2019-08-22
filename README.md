@@ -68,9 +68,11 @@ The Perl programming language’s well-known motto is, “there’s more than on
 |Iterator➿|what's next|<img src="https://i.imgur.com/IlKj1J3.jpg" alt="Iterator" width="200"/> <br>|`next`|
 | Mediator👽|encapsulate interact|<img src="https://i.imgur.com/JuoIurx.jpg" alt="Mediator" width="200"/> <br>|meidator & user|
 | Memento|redo|<img src="https://i.imgur.com/dGzcnqh.png" alt="Memento" width="200"/> <br>|`save`|
+| Observer | subscribe & notice |<img src="https://i.imgur.com/iIpUCr3.png" alt="Observer" width="200"/> <br>|`attach`|
 |[Visitor](https://www.wikiwand.com/en/Visitor_pattern)🚕|add more without modify| | | |
 
 
+https://i.imgur.com/iIpUCr3.png
 
 
 - [ ] Chain of Responsibility🔗
@@ -78,7 +80,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 - [ ] Iterator➿: An iterator returns items from a collection one at a time until it has returned all items from the collection.
 - [ ] Mediator👽: In software engineering, the mediator pattern defines an object that **encapsulates** how a set of objects interact. This pattern is considered to be a behavioral pattern due to the way it can alter the program's running behavior.
 - [ ] Memento💾: The memento pattern is a software design pattern that provides the ability to restore an object to its previous state (undo via rollback).
-- [ ] Observer😎 
+- [ ] Observer😎: Defines a dependency between objects so that whenever an object changes its state, all its dependents are notified.
 - [ ] Visitor🏃
 - [ ] Strategy💡
 - [ ] State💢
