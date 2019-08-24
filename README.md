@@ -81,7 +81,7 @@ https://i.imgur.com/iIpUCr3.png
 - [ ] Mediator👽: In software engineering, the mediator pattern defines an object that **encapsulates** how a set of objects interact. This pattern is considered to be a behavioral pattern due to the way it can alter the program's running behavior.
 - [ ] Memento💾: The memento pattern is a software design pattern that provides the ability to restore an object to its previous state (undo via rollback).
 - [ ] Observer😎: Defines a dependency between objects so that whenever an object changes its state, all its dependents are notified.
-- [ ] Visitor🏃
+- [ ] Visitor🏃: Visitor pattern lets you add further operations to objects without having to modify them.
 - [ ] Strategy💡
 - [ ] State💢
 - [ ] Template Method📒 
