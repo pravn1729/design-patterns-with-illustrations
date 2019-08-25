@@ -69,10 +69,9 @@ The Perl programming language’s well-known motto is, “there’s more than on
 | Mediator👽|encapsulate interact|<img src="https://i.imgur.com/JuoIurx.jpg" alt="Mediator" width="200"/> <br>|meidator & user|
 | Memento|redo|<img src="https://i.imgur.com/dGzcnqh.png" alt="Memento" width="200"/> <br>|`save`|
 | Observer | subscribe & notice |<img src="https://i.imgur.com/iIpUCr3.png" alt="Observer" width="200"/> <br>|`attach`|
-|[Visitor](https://www.wikiwand.com/en/Visitor_pattern)🚕|add more without modify| | | |
+|[Visitor](https://www.wikiwand.com/en/Visitor_pattern)🚕|add more without modify|<img src="https://i.imgur.com/8RWeDoc.png" alt="Visitor" width="200"/> <br> | `interface`| |
 
 
-https://i.imgur.com/iIpUCr3.png
 
 
 - [ ] Chain of Responsibility🔗
