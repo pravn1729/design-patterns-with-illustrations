@@ -70,6 +70,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 | Memento|redo|<img src="https://i.imgur.com/dGzcnqh.png" alt="Memento" width="200"/> <br>|`save`|
 | Observer | subscribe & notice |<img src="https://i.imgur.com/iIpUCr3.png" alt="Observer" width="200"/> <br>|`attach`|
 |[Visitor](https://www.wikiwand.com/en/Visitor_pattern)🚕|add more without modify|<img src="https://i.imgur.com/8RWeDoc.png" alt="Visitor" width="200"/> <br> | `interface`| |
+|Strategy|choose x suitable|<img src="https://i.imgur.com/wX1y2jT.png" alt="Strategy" width="200"/> <br>|`if`||
 
 
 
@@ -81,7 +82,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 - [ ] Memento💾: The memento pattern is a software design pattern that provides the ability to restore an object to its previous state (undo via rollback).
 - [ ] Observer😎: Defines a dependency between objects so that whenever an object changes its state, all its dependents are notified.
 - [ ] Visitor🏃: Visitor pattern lets you add further operations to objects without having to modify them.
-- [ ] Strategy💡
+- [ ] Strategy💡: Strategy pattern allows you to switch the algorithm or strategy based upon the situation.
 - [ ] State💢
 - [ ] Template Method📒 
 
