@@ -71,6 +71,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 | Observer | subscribe & notice |<img src="https://i.imgur.com/iIpUCr3.png" alt="Observer" width="200"/> <br>|`attach`|
 |[Visitor](https://www.wikiwand.com/en/Visitor_pattern)🚕|add more without modify|<img src="https://i.imgur.com/8RWeDoc.png" alt="Visitor" width="200"/> <br> | `interface`| |
 |Strategy|choose x suitable|<img src="https://i.imgur.com/wX1y2jT.png" alt="Strategy" width="200"/> <br>|`if`||
+|State|state → class|<img src="https://i.imgur.com/zh3pkxI.jpg" alt="state" width="200"/> <br>|`interface` & `class` & `function`||
 
 
 
@@ -83,7 +84,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 - [ ] Observer😎: Defines a dependency between objects so that whenever an object changes its state, all its dependents are notified.
 - [ ] Visitor🏃: Visitor pattern lets you add further operations to objects without having to modify them.
 - [ ] Strategy💡: Strategy pattern allows you to switch the algorithm or strategy based upon the situation.
-- [ ] State💢
+- [ ] State💢: It lets you change the behavior of a class when the state changes.
 - [ ] Template Method📒 
 
 
@@ -95,7 +96,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 - [dive into design patterns](https://sourcemaking.com/design_patterns)
 - [Design Patterns Illustrated](https://www.slideshare.net/HermanPeeren/design-patterns-illustrated/37-Iterator_Enable_sequential_access_to)
 - [Object-Oriented Design Patterns in Life](https://www.sihui.io/design-patterns/)
-- [Refactoring](https://refactoring.guru/refactoring)
+- [Refactoring](https://refactoring.guru/design-patterns/catalog)
 
 
 ## More 
