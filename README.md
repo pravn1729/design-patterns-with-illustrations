@@ -85,7 +85,8 @@ The Perl programming language’s well-known motto is, “there’s more than on
 - [ ] Visitor🏃: Visitor pattern lets you add further operations to objects without having to modify them.
 - [ ] Strategy💡: Strategy pattern allows you to switch the algorithm or strategy based upon the situation.
 - [ ] State💢: It lets you change the behavior of a class when the state changes.
-- [ ] Template Method📒 
+- [ ] Template Method📒：Template method defines the **skeleton** of how a certain algorithm could be performed, but defers the implementation of those steps to the children classes.
+
 
 
 ## Reference
