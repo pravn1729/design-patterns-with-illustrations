@@ -72,7 +72,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 |[Visitor](https://www.wikiwand.com/en/Visitor_pattern)🚕|add more without modify|<img src="https://i.imgur.com/8RWeDoc.png" alt="Visitor" width="200"/> <br> | `interface`| |
 |Strategy|choose x suitable|<img src="https://i.imgur.com/wX1y2jT.png" alt="Strategy" width="200"/> <br>|`if`||
 |State|state → class|<img src="https://i.imgur.com/zh3pkxI.jpg" alt="state" width="200"/> <br>|`interface` & `class` & `function`||
-|Template||
+|Template| skeleton → children classes|
 
 
 
