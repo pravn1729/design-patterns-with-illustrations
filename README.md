@@ -77,8 +77,8 @@ The Perl programming language’s well-known motto is, “there’s more than on
 
 
 
-- [ ] Chain of Responsibility🔗:
-- [ ] Command👮: Allows you to encapsulate actions in objects. The key idea behind this pattern is to provide the means to decouple client from receiver.
+- [ ] Chain of Responsibility🔗: It helps building a chain of objects. Request enters from one end and keeps going from object to object till it finds the **suitable** handler.
+- [ ] Command👮: Allows you to encapsulate actions in objects. The key idea behind this pattern is to provide the means to decouple **client** from **receiver**.
 - [ ] Iterator➿: An iterator returns items from a collection one at a time until it has returned all items from the collection.
 - [ ] Mediator👽: In software engineering, the mediator pattern defines an object that **encapsulates** how a set of objects interact. This pattern is considered to be a behavioral pattern due to the way it can alter the program's running behavior.
 - [ ] Memento💾: The memento pattern is a software design pattern that provides the ability to restore an object to its previous state (undo via rollback).
