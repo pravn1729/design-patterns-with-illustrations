@@ -51,7 +51,7 @@ Three themes stand out in structural design patterns: adapting interfaces, addin
 - Composite
 - Decorator
 - Facade
-- Flyweight
+- Flyweight: It is used to minimize memory usage or computational expenses by sharing as much as possible with **similar** objects.
 - Proxy
 
 ### Behavioral                 
