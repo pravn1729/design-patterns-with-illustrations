@@ -16,7 +16,7 @@ For Python programmers, some of these patterns are fairly similar to each other 
 | :-------- | :---------: | :----------: | :---------: |  :---------: |
 |**Simple Factory🏠**| create without the mess | class | `new`| |
 |**Factory Method🏭**| generic & sub-class | subclass| `extends`| |
-|**Abstract Factory🔨**| stuff & steps | interface? |`implements`| dependencies |
+|**Abstract Factory🔨**| stuff & steps | <a href="https://refactoring.guru/design-patterns/abstract-factory"><img src="https://i.imgur.com/jXCYg06.png" alt="Abstract Factory" width="200"/></a> |`implements`| dependencies |
 |**Builder👷**| to avoid the constructor telescoping | multi steps|`new`&   `function`  | |
 |**Prototype🐑**| similar & save | copy | `clone` |  |
 |**Singleton💍**|  unique| president of a country| `getInstance()` | ⚠️|
