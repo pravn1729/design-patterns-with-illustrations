@@ -82,7 +82,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 - [ ] Iterator➿: An iterator returns items from a collection one at a time until it has returned all items from the collection.
 - [ ] Mediator👽: A general example would be when you talk to someone on your mobile phone, there is a network provider sitting between you and them and your conversation goes through it instead of being directly sent. In this case **network provider** is mediator.
 - [ ] Memento💾: The memento pattern is a software design pattern that provides the ability to restore an object to its previous state (undo via rollback).
-- [ ] Observer😎: Defines a dependency between objects so that whenever an object changes its state, all its dependents are notified.
+- [ ] Observer😎: A good example would be the job seekers where they **subscribe** to some job posting site and they are notified whenever there is a matching job opportunity.
 - [ ] Visitor🏃: Visitor pattern lets you add further operations to objects without having to modify them.
 - [ ] Strategy💡: Strategy pattern allows you to switch the algorithm or strategy based upon the situation.
 - [ ] State💢: It lets you change the behavior of a class when the state changes.
