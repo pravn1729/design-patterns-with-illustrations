@@ -27,7 +27,7 @@ For Python programmers, some of these patterns are fairly similar to each other 
 - [ ] Factory Method🏭: It provides a way to **delegate** the instantiation logic to child classes. e.g. take interview
 - [ ] Abstract Factory🔨: A factory of factories e.g. door & experts
 - [ ] Builder👷: Separates object **construction** from its **representation** e.g. Subway 
-- [ ] Prototype🐑 
+- [ ] Prototype🐑: Create object based on an existing object through **cloning**.
 - [ ] Singleton💍
 
 ### Structural 
@@ -83,7 +83,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 - [ ] Mediator👽: A general example would be when you talk to someone on your mobile phone, there is a network provider sitting between you and them and your conversation goes through it instead of being directly sent. In this case **network provider** is mediator.
 - [ ] Memento💾: The memento pattern is a software design pattern that provides the ability to restore an object to its previous state (undo via rollback).
 - [ ] Observer😎: A good example would be the job seekers where they **subscribe** to some job posting site and they are notified whenever there is a matching job opportunity.
-- [ ] Visitor🏃: Visitor pattern lets you add further operations to objects without having to modify them.
+- [ ] Visitor🏃: Visitor is a behavioral design pattern that lets you separate **algorithms** from the **objects** on which they operate.
 - [ ] Strategy💡: Strategy pattern allows you to switch the algorithm or strategy based upon the situation.
 - [ ] State💢: Imagine you are using some **drawing** application, you choose the paint brush to draw. Now the brush changes its behavior based on the selected color i.e. if you have chosen red color it will draw in red, if blue then it will be in blue etc.
 - [ ] Template Method📒：Template method defines the **skeleton** of how a certain algorithm could be performed, but defers the implementation of those steps to the children classes.
