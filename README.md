@@ -28,7 +28,8 @@ For Python programmers, some of these patterns are fairly similar to each other 
 - [ ] Abstract Factory🔨: A factory of factories e.g. door & experts
 - [ ] Builder👷: Separates object **construction** from its **representation** e.g. Subway 
 - [ ] Prototype🐑: Create object based on an existing object through **cloning**.
-- [ ] Singleton💍
+- [ ] Singleton💍: Ensures that **only one** object of a particular class is ever created.
+
 
 ### Structural 
 The primary concern of structural design patterns is **how objects are composed together to form new, larger objects.**
