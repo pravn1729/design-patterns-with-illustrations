@@ -47,7 +47,7 @@ Three themes stand out in structural design patterns: adapting interfaces, addin
 |Flyweight🍃|sharing & frugality|<img src="https://i.imgur.com/o3ClHZv.jpg" alt="Flyweight" width="200"/>||
 |Proxy🎱|extra functionality|<img src="https://i.imgur.com/tHIXbE8.png" alt="Proxy" width="200"/> <br>|`function`+||
 
-- Adapter
+- Adapter: Adapter pattern lets you wrap an otherwise incompatible object in an adapter to make it compatible with another class.
 - Bridge
 - Composite
 - Decorator
