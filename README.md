@@ -48,7 +48,7 @@ Three themes stand out in structural design patterns: adapting interfaces, addin
 |Proxy🎱|extra functionality|<img src="https://i.imgur.com/tHIXbE8.png" alt="Proxy" width="200"/> <br>|`function`+||
 
 - Adapter: Adapter pattern lets you wrap an otherwise incompatible object in an adapter to make it compatible with another class.
-- Bridge
+- Bridge: The bridge pattern is a design pattern used in software engineering that is meant to "decouple an abstraction from its implementation so that the two can vary independently.
 - Composite
 - Decorator
 - Facade
