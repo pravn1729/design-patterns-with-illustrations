@@ -50,7 +50,7 @@ Three themes stand out in structural design patterns: adapting interfaces, addin
 - **Adapter**: Adapter pattern lets you wrap an otherwise incompatible object in an adapter to make it compatible with another class.
 - **Bridge**: The bridge pattern is a design pattern used in software engineering that is meant to "decouple an abstraction from its implementation so that the two can vary independently.
 - **Composite**: Composite pattern lets clients treat the individual objects in a uniform manner.
-- Decorator
+- **Decorator**: Decorator pattern lets you dynamically change the behavior of an object at run time by wrapping them in an object of a decorator class.
 - Facade
 - Flyweight: It is used to minimize memory usage or computational expenses by sharing as much as possible with **similar** objects.
 - Proxy
