@@ -39,16 +39,16 @@ Three themes stand out in structural design patterns: adapting interfaces, addin
 
 | key 🔑 | why | what  | how  | when | 
 | :-------- | :---------: | :----------: | :---------: |  :---------: |
-|**Adapter🔌**| | <img src="https://i.imgur.com/Jm1rBhJ.jpg" alt="Adapter" width="200"/>**incompatible** -> **compatible**  <br>e.g. card reader, power adapter.| `WildDogAdapter`||
-|Bridge🚡|composition over inheritance| decouple & independently||
+|**Adapter🔌**| | <img src="https://i.imgur.com/Jm1rBhJ.jpg" alt="Adapter" width="200"/>| `WildDogAdapter`||
+|Bridge🚡|composition over inheritance| <img src="https://i.imgur.com/HSIGiiZ.png" alt="Bridge" width="200"/>||
 |Composite🌿| uniform |group → same single |
 |Decorator☕|dynamically change|<img src="http://qxf2.com/blog/wp-content/uploads/2014/09/qxf2-gun-decorator1.jpg" alt="Decorator" width="200"/>|[python](https://repl.it/@WillWang42/decorator)| **切面需求**<br>e.g.<br>插入日志<br>性能测试<br>事务处理<br>缓存<br>权限校验|
 |Facade📦|simplified interface → complex subsystem |<img src="https://i.imgur.com/bYMfJAx.jpg" alt="Facade" width="200"/> <br>e.g. hit the button ||
 |Flyweight🍃|sharing & frugality|<img src="https://i.imgur.com/o3ClHZv.jpg" alt="Flyweight" width="200"/>||
 |Proxy🎱|extra functionality|<img src="https://i.imgur.com/tHIXbE8.png" alt="Proxy" width="200"/> <br>|`function`+||
 
-1. **Adapter**: Adapter pattern lets you wrap an otherwise incompatible object in an adapter to make it compatible with another class.
-- **Bridge**: The bridge pattern is a design pattern used in software engineering that is meant to "decouple an abstraction from its implementation so that the two can vary independently.
+1. **Adapter**: Adapter pattern lets you wrap an otherwise **incompatible** object in an adapter to make it **compatible** with another class. e.g. card reader, power adapter.
+- **Bridge**: Consider you have a website with different pages and you are supposed to allow the user to change the theme. What would you do? Create multiple copies of each of the pages for each of the themes or would you just create separate theme and load them based on the user's preferences? Bridge pattern allows you to do the second
 - **Composite**: Composite pattern lets clients treat the individual objects in a uniform manner.
 - **Decorator**: Decorator pattern lets you dynamically change the behavior of an object at run time by wrapping them in an object of a decorator class.
 - Facade
