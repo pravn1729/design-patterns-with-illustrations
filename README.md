@@ -17,7 +17,7 @@ For Python programmers, some of these patterns are fairly similar to each other 
 |**Simple Factory🏠**| create without the mess | class | `new`| |
 |**Factory Method🏭**| generic & sub-class | subclass| `extends`| |
 |**Abstract Factory🔨**| stuff & steps | <a href="https://refactoring.guru/design-patterns/abstract-factory"><img src="https://i.imgur.com/jXCYg06.png" alt="Abstract Factory" width="200"/></a> |`implements`| dependencies |
-|**Builder👷**| to avoid the constructor telescoping | multi steps|`new`&   `function`  | |
+|**Builder👷**| to avoid the constructor telescoping | <img src="https://i.imgur.com/0BPaW0q.png" alt="Builder" width="200"/>|`new`&   `function`  | |
 |**Prototype🐑**| similar & save | copy | `clone` |  |
 |**Singleton💍**|  unique| president of a country| `getInstance()` | ⚠️|
 
@@ -26,7 +26,7 @@ For Python programmers, some of these patterns are fairly similar to each other 
 1. [x] **Simple Factory🏠**: Simple factory simply **generates an instance for client without exposing any instantiation logic** to the client e.g. door 
 2. [ ] Factory Method🏭: It provides a way to **delegate** the instantiation logic to child classes. e.g. take interview
 - [ ] Abstract Factory🔨: A factory of factories e.g. door & experts
-- [ ] Builder👷: Separates object **construction** from its **representation** e.g. Subway 
+- [ ] Builder👷: Builder is a creational design pattern that lets you construct complex objects **step by step**. The pattern allows you to produce **different** types and representations of an object using the **same** construction code. 
 - [ ] Prototype🐑: Create object based on an existing object through **cloning**.
 - [ ] Singleton💍: Ensures that **only one** object of a particular class is ever created.
 
@@ -47,7 +47,7 @@ Three themes stand out in structural design patterns: adapting interfaces, addin
 |Flyweight🍃|sharing & frugality|<img src="https://i.imgur.com/o3ClHZv.jpg" alt="Flyweight" width="200"/>||
 |Proxy🎱|extra functionality|<img src="https://i.imgur.com/tHIXbE8.png" alt="Proxy" width="200"/> <br>|`function`+||
 
-1. **Adapter**: Adapter pattern lets you wrap an otherwise **incompatible** object in an adapter to make it **compatible** with another class. e.g. card reader, power adapter.
+- **Adapter**: Adapter pattern lets you wrap an otherwise **incompatible** object in an adapter to make it **compatible** with another class. e.g. card reader, power adapter.
 - **Bridge**: Consider you have a website with different pages and you are supposed to allow the user to change the theme. What would you do? Create multiple copies of each of the pages for each of the themes or would you just create separate theme and load them based on the user's preferences? Bridge pattern allows you to do the second
 - **Composite**: Composite pattern lets clients treat the individual objects in a uniform manner.
 - **Decorator**: Decorator pattern lets you dynamically change the behavior of an object at run time by wrapping them in an object of a decorator class.
