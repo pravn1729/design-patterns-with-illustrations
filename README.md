@@ -27,7 +27,7 @@ For Python programmers, some of these patterns are fairly similar to each other 
 2. [ ] Factory Method🏭: It provides a way to **delegate** the instantiation logic to child classes. e.g. take interview
 - [ ] Abstract Factory🔨: A factory of factories e.g. door & experts
 - [ ] Builder👷: Builder is a creational design pattern that lets you construct complex objects **step by step**. The pattern allows you to produce **different** types and representations of an object using the **same** construction code. 
-- [ ] Prototype🐑: Create object based on an existing object through **cloning**.
+- [ ] Prototype🐑: Prototype is a creational design pattern that lets you copy existing objects **without** making your code dependent on their classes.
 - [ ] Singleton💍: Ensures that **only one** object of a particular class is ever created.
 
 
