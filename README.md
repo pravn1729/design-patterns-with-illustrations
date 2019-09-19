@@ -52,8 +52,7 @@ Three themes stand out in structural design patterns: adapting interfaces, addin
 - **Composite**: Composite is a structural design pattern that lets you **compose** objects into tree structures and then work with these structures as if they were **individual** objects.
 - **Decorator**: Decorator pattern lets you dynamically change the behavior of an object at run time by wrapping them in an object of a decorator class.
 - Facade
-- **Flyweight**: It is used to minimize memory usage or computational expenses by sharing as much as possible with **similar** objects.
-- **Proxy**: Using the proxy pattern, a class **represents** the functionality of another class.
+- **Flyweight**: Flyweight is a structural design pattern that lets you fit more objects into the available amount of RAM by **sharing** common parts of state between multiple objects instead of **keeping** all of the data in each object.
 
 
 
