@@ -44,7 +44,7 @@ Three themes stand out in structural design patterns: adapting interfaces, addin
 |Composite🌿| uniform |<img src="https://i.imgur.com/uhFRwSy.png" alt="Composite" width="200"/>|
 |Decorator☕|dynamically change|<img src="http://qxf2.com/blog/wp-content/uploads/2014/09/qxf2-gun-decorator1.jpg" alt="Decorator" width="200"/>|[python](https://repl.it/@WillWang42/decorator)| **切面需求**<br>e.g.<br>插入日志<br>性能测试<br>事务处理<br>缓存<br>权限校验|
 |Facade📦|simplified interface → complex subsystem |<img src="https://i.imgur.com/bYMfJAx.jpg" alt="Facade" width="200"/> <br>e.g. hit the button ||
-|Flyweight🍃|sharing & frugality|<img src="https://i.imgur.com/o3ClHZv.jpg" alt="Flyweight" width="200"/>||
+|Flyweight🍃|sharing & frugality|<img src="https://i.imgur.com/vGbsoLh.png" alt="Flyweight" width="200"/>||
 |Proxy🎱|extra functionality|<img src="https://i.imgur.com/tHIXbE8.png" alt="Proxy" width="200"/> <br>|`function`+||
 
 - **Adapter**: Adapter pattern lets you wrap an otherwise **incompatible** object in an adapter to make it **compatible** with another class. e.g. card reader, power adapter.
