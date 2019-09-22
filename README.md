@@ -18,7 +18,7 @@ For Python programmers, some of these patterns are fairly similar to each other 
 |**Factory Method🏭**| generic & sub-class | subclass| `extends`| |
 |**Abstract Factory🔨**| stuff & steps | <a href="https://refactoring.guru/design-patterns/abstract-factory"><img src="https://i.imgur.com/jXCYg06.png" alt="Abstract Factory" width="200"/></a> |`implements`| dependencies |
 |**Builder👷**| to avoid the constructor telescoping | <img src="https://i.imgur.com/0BPaW0q.png" alt="Builder" width="200"/>|`new`&   `function`  | |
-|**Prototype🐑**| similar & save | copy | `clone` |  |
+|**Prototype🐑**| similar & save | <img src="https://i.imgur.com/jbcu18T.png" alt="Builder" width="200"/> | `clone` |  |
 |**Singleton💍**|  unique| president of a country| `getInstance()` | ⚠️|
 
 
