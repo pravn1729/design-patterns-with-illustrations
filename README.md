@@ -52,7 +52,7 @@ Three themes stand out in structural design patterns: adapting interfaces, addin
 - **Composite**: Composite is a structural design pattern that lets you **compose** objects into tree structures and then work with these structures as if they were **individual** objects.
 - **Decorator**: Decorator pattern lets you dynamically change the behavior of an object at run time by wrapping them in an object of a decorator class.
 - Facade
-- **Flyweight**: Flyweight is a structural design pattern that lets you fit more objects into the available amount of RAM by **sharing** common parts of state between multiple objects instead of **keeping** all of the data in each object.
+- **Flyweight**: Flyweight is a structural design pattern that lets you fit more objects into the available amount of RAM by **sharing** common parts of state between multiple objects instead of **keeping** all of the data in each object. 
 
 
 
@@ -88,7 +88,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 - [ ] Observer😎: A good example would be the job seekers where they **subscribe** to some job posting site and they are notified whenever there is a matching job opportunity.
 - [ ] Visitor🏃: Visitor is a behavioral design pattern that lets you separate **algorithms** from the **objects** on which they operate.
 - [ ] Strategy💡: Strategy pattern allows you to switch the algorithm or strategy based upon the situation.
-- [ ] State💢: Imagine you are using some **drawing** application, you choose the paint brush to draw. Now the brush changes its behavior based on the selected color i.e. if you have chosen red color it will draw in red, if blue then it will be in blue etc.
+- [ ] State💢: Imagine you are using some **drawing** application, you choose the paint brush to draw. Now the brush changes its behavior based on the selected color i.e. if you have chosen red color it will draw in red, if blue then it will be in blue etc. State is a behavioral design pattern that lets an object **alter its behavior** when its internal **state** changes. It appears as if the object changed its class.
 - [ ] Template Method📒：Template method defines the **skeleton** of how a certain algorithm could be performed, but defers the implementation of those steps to the children classes.
 
 
