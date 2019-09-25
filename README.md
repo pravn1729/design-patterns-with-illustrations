@@ -19,7 +19,7 @@ For Python programmers, some of these patterns are fairly similar to each other 
 |**Abstract Factory🔨**| stuff & steps | <a href="https://refactoring.guru/design-patterns/abstract-factory"><img src="https://i.imgur.com/jXCYg06.png" alt="Abstract Factory" width="200"/></a> |`implements`| dependencies |
 |**Builder👷**| to avoid the constructor telescoping | <img src="https://i.imgur.com/0BPaW0q.png" alt="Builder" width="200"/>|`new`&   `function`  | |
 |**Prototype🐑**| similar & save | <img src="https://i.imgur.com/jbcu18T.png" alt="Builder" width="200"/> | `clone` |  |
-|**Singleton💍**|  unique| president of a country| `getInstance()` | ⚠️|
+|**Singleton💍**|  unique| <img src="https://i.imgur.com/Ir8x2Cf.png" alt="Builder" width="200"/>| `getInstance()` | ⚠️|
 
 
 
@@ -28,7 +28,7 @@ For Python programmers, some of these patterns are fairly similar to each other 
 - [ ] Abstract Factory🔨: A factory of factories e.g. door & experts
 - [ ] Builder👷: Builder is a creational design pattern that lets you construct complex objects **step by step**. The pattern allows you to produce **different** types and representations of an object using the **same** construction code. 
 - [ ] Prototype🐑: Prototype is a creational design pattern that lets you copy existing objects **without** making your code dependent on their classes.
-- [ ] Singleton💍: Ensures that **only one** object of a particular class is ever created.
+- [ ] Singleton💍: Singleton is a creational design pattern that lets you ensure that a class has only **one instance**, while providing a global access point to this instance.
 
 
 ### Structural 
