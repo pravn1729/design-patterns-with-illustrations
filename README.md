@@ -49,7 +49,7 @@ Three themes stand out in structural design patterns: adapting interfaces, addin
 
 - **Adapter**: Adapter pattern lets you wrap an otherwise **incompatible** object in an adapter to make it **compatible** with another class. e.g. card reader, power adapter.
 - **Bridge**: Consider you have a website with different pages and you are supposed to allow the user to change the theme. What would you do? Create multiple copies of each of the pages for each of the themes or would you just create separate theme and load them based on the user's preferences? Bridge pattern allows you to do the second
-- **Composite**: Composite is a structural design pattern that lets you **compose** objects into tree structures and then work with these structures as if they were **individual** objects.
+- [Composite](https://www.wikiwand.com/en/Composite_pattern): Composite is a structural design pattern that lets you **compose** objects into tree structures and then work with these structures as if they were **individual** objects.
 - **Decorator**: Decorator pattern lets you dynamically change the behavior of an object at run time by wrapping them in an object of a decorator class.
 - Facade
 - **Flyweight**: Flyweight is a structural design pattern that lets you fit more objects into the available amount of RAM by **sharing** common parts of state between multiple objects instead of **keeping** all of the data in each object. 
