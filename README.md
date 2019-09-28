@@ -67,7 +67,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 | key 🔑 | why | what  | how  | when | 
 | :-------- | :---------: | :----------: | :---------: |  :---------: |
 |Chain of Responsibility🔗|request with multi handle|<img src="https://i.imgur.com/EyoYZbI.png" alt="Chain of Respnsibility" width="200"/> <br>|`setNext`| |
-|Comand|encapsulate actions in objects|<img src="https://i.imgur.com/lVFORZg.png" alt="Command" width="200"/> <br>|`Client` & `Invoker` & `Command` & `Receiver` ||
+|Command|encapsulate actions in objects|<img src="https://i.imgur.com/lVFORZg.png" alt="Command" width="200"/> <br>|`Client` & `Invoker` & `Command` & `Receiver` ||
 |Iterator➿|what's next|<img src="https://i.imgur.com/IlKj1J3.jpg" alt="Iterator" width="200"/> <br>|`next`|
 | Mediator👽|encapsulate interact|<img src="https://i.imgur.com/DTjsQHf.png" alt="Mediator" width="200"/> <br>|meidator & user|
 | Memento|redo|<img src="https://i.imgur.com/dGzcnqh.png" alt="Memento" width="200"/> <br>|`save`|
