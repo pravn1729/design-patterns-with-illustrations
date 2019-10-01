@@ -102,6 +102,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 - [Design Patterns Illustrated](https://www.slideshare.net/HermanPeeren/design-patterns-illustrated/37-Iterator_Enable_sequential_access_to)
 - [Object-Oriented Design Patterns in Life](https://www.sihui.io/design-patterns/)
 - [Refactoring](https://refactoring.guru/design-patterns/catalog)
+- [Python Patterns](https://python-patterns.guide): 
 
 
 ## More 
