@@ -6,10 +6,16 @@
 ## Why?
 
 
-
 ## How?
 
 ## What?
+
+Case study:
+
+- An image package
+- [credit card](https://youtu.be/TeZqKnC2gvA?t=998)
+- XML export implementation
+
 
 Con:
 
