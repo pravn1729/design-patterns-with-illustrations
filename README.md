@@ -95,7 +95,7 @@ The Perl programming language’s well-known motto is, “there’s more than on
 
 ## Reference
 
-- [python in practice](https://github.com/lovexiaov/python-in-practice)
+- [Python in Practice](https://github.com/lovexiaov/python-in-practice): Create Better Programs Using Concurrency, Libraries, and Patterns. (Dr Dobbs JOLT best book award 2014. )
 - [design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [Design Patterns Game](http://designpatternsgame.com/)
 - [dive into design patterns](https://sourcemaking.com/design_patterns)
