@@ -96,8 +96,8 @@ The Perl programming language’s well-known motto is, “there’s more than on
 ## Reference
 
 - [Python in Practice](https://github.com/lovexiaov/python-in-practice): Create Better Programs Using Concurrency, Libraries, and Patterns. (Dr Dobbs JOLT best book award 2014. )
-- [design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans): 5 mins read
-- [Design Patterns Game](http://designpatternsgame.com/)
+- [design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans): 5 mins read each
+- [Design Patterns Game](http://designpatternsgame.com/): “Gang of Four” patterns in JavaScript
 - [dive into design patterns](https://sourcemaking.com/design_patterns)
 - [Design Patterns Illustrated](https://www.slideshare.net/HermanPeeren/design-patterns-illustrated/37-Iterator_Enable_sequential_access_to)
 - [Object-Oriented Design Patterns in Life](https://www.sihui.io/design-patterns/)
